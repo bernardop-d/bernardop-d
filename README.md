@@ -10,7 +10,7 @@
 
 - 🎓 **Formação**: Cursando Análise e Desenvolvimento de Sistemas
 - 💻 **Atualmente**: Focado em **Backend**
-- 📊 **Habilidades**: Python, Java, SQL, Excel
+- 📊 **Habilidades**: Python, Java, SQL, HTML5, CSS, Javascript
 - 🌍 **Idiomas**: Português (nativo), Inglês (intermediário), Espanhol (básico)
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -18,8 +18,11 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=database&logoColor=white">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
+
 
 ## 📂 Projetos Destacados
 - 🔹 [Sistema Hercules_festas (aluguel de material pra festa)](https://github.com/bernardop-d/Hercules_festas/blob/master/Hercules_festas.py)
