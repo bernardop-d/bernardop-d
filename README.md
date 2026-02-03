@@ -10,7 +10,7 @@
 
 - 🎓 **Formação**: Cursando Análise e Desenvolvimento de Sistemas
 - 💻 **Atualmente**: Focado em **Backend**
-- 📊 **Habilidades**: Python, Java, SQL, HTML5, CSS, Javascript
+- 📊 **Habilidades**: Java, Python, SQL, HTML5, CSS, Javascript
 - 🌍 **Idiomas**: Português (nativo), Inglês (intermediário), Espanhol (básico)
 
 ## 🛠️ Tecnologias e Ferramentas
