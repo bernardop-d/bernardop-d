@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/bernardop-d">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardop-d&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=bernardop-d&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=bernardop-d&show_icons=true&theme=dracula&count_private=true"/>
   </a>
 </div>
 
@@ -27,7 +27,6 @@
 
 ## 📂 Projetos Destacados
 - 🔹 [Sistema Hercules_festas (Aluguel de materiais)](https://github.com/bernardop-d/Hercules_festas/blob/master/Hercules_festas.py)
-- 🔹 [Pipeline ETL - Santander Dev Week](https://github.com/bernardop-d) *(Adicione o link aqui quando subir)*
 
 ## 📫 Entre em Contato
 
